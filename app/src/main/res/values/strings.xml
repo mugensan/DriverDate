@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Driver</string>
+    <string name="get_date">get date</string>
+    <string name="the_date_will_be_displayed_here">The date will be displayed here!</string>
+</resources>
